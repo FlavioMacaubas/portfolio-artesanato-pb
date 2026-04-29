@@ -1,6 +1,6 @@
 # portfolio-artesanato-pb
 
-Estudo anal├¡tico sobre dados de artesanato na Para├¡ba para gera├º├úo de insights.
+Análise de dados sobre o setor de artesanato na Paraíba.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Data%20Engineering%20%2B%20IA-0A66C2?style=flat)
